@@ -1,3 +1,13 @@
+[Adblock Plus]
+! Version: 202409221406
+! Title: io games
+! Description: Block. Don't break.
+! Syntax: Adblock Plus Filter List
+! Entries: 257
+! Last modified: 2024-09-22T14:06:50+0000
+! Expires: 1 hours
+
+
 ||flixter.io^
 ||agar.io^
 ||agar.red^
